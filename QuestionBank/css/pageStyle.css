@@ -1,0 +1,84 @@
+#bodyDiv{
+	margin-top: 2%;
+	margin-left: 20%;
+	margin-right: 5%;
+}
+#box{
+	//background-color: rgba(135,128,128,0.5);
+	//padding:2%;
+}
+#textBox{
+	font-size: 1.2em;
+	margin-left: 5%;
+	
+}
+#accountTableBox{
+	font-size: 1.2em;
+	margin-left: 5%;
+	margin-right: 20%;
+}
+#pdfBox{
+	margin-top: 2%;
+	margin-left: 20%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+#commentsDiv{
+	margin-left: 10%;
+	margin-right: 5%;
+	width: 50%;
+	height: 50%;
+	margin-bottom: 5%;
+}
+#data{
+	height:30%;
+	width: 100%;
+	resize: none;
+}
+#previousCommentsDiv{
+	margin-left: 10%;
+	margin-right: 5%;
+	width: 50%;
+	margin-bottom: 10%;
+	font-size: 1.5em;
+}
+#hiddenDiv{
+	display: none;	
+}
+#timeBar{
+	font-size: 0.5em;
+}
+#textBoxCenter{
+	margin-left: 30%;
+}
+#titleBox{
+	font-size: 2.5em;
+	margin-top: -5%;
+}
+#sliderDiv{
+	//margin-top: 2%;
+}
+#indexBodyDiv{
+	margin-left: 20%;
+	margin-right: 2%;
+}
+#indexTextBox{
+	margin-left: 5%;
+	margin-right: 10%;
+	margin-bottom: 0%;
+	margin-top: -10%;
+	font-size: 1.2em;
+}
+#foot{
+	margin-top: 0%;
+}
+#listedItem{
+	margin-right: -2%;
+	margin-left: -2%;
+}
+
+#notificationDiv{
+	margin-top: -5%;
+	margin-left: 20%;
+	margin-right: 5%;
+}
